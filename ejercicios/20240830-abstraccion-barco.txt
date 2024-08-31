@@ -1,0 +1,13 @@
+atributos de un barco 
+Matricula (marca o # id)
+Rompe olas (evita golpes y manejo del barco)
+Bodega ( guardar equipaje)
+Un ancla ( usado para detenero estacionar el barco)
+Timon (maniobrar)
+Radar ( mejora el posicionamiento del barco)
+Cabina (lugar para controlar cosa del barco desde un punto)
+Color(distintivo)
+Tamaño(depende para que usa el barco)
+Helice (sirve para impulsar el barco)
+Antena de localizacion (para saber donde esta el barco)
+Sistema de comunicacion
